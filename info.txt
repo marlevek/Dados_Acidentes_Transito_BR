@@ -1,0 +1,14 @@
+Fonte Consulta	https://www.gov.br/infraestrutura/pt-br/assuntos/transito/arquivos-senatran/docs/renaest
+			
+data: 01/03/2022		
+			
+			
+fazer: 			
+obitos/100 mil habitantes	
+obitos/10 mil veículos	
+% obitos por acidentes	
+
+
+FROTA ATIVA: VEÍCULOS COM ÚLTIMO LICENCIAMENTO OU COM INFRAÇÃO NOS ÚLTIMOS 10 ANOS
+							
+OBJETIVO: MOSTRAR OS 5 ESTADOS BRASILEIROS COM MAIOR NÚMERO DE ACIDENTES CARRO E ÓBITOS
